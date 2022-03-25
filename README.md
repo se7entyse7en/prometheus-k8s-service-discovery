@@ -1,1 +1,1 @@
-# prometheus-k8s-service-discover
+# prometheus-k8s-service-discovery
